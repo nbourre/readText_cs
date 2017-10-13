@@ -31,6 +31,9 @@ namespace readText_cs
 
             nbTest = int.Parse(file.ReadLine());
 
+            // Do you things here!
+
+
             Console.Write(input);
             Console.ReadKey();
 
